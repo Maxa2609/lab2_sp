@@ -1,0 +1,15 @@
+    96.20%  mm3      mm3                   [.] multiply
+     0.42%  mm3      mm3                   [.] init
+     0.37%  mm3      [kernel.kallsyms]     [k] kernel_init_pages
+     0.33%  mm3      [kernel.kallsyms]     [k] sync_regs
+     0.23%  mm3      [kernel.kallsyms]     [k] native_flush_tlb_one_user
+     0.22%  mm3      [kernel.kallsyms]     [k] get_page_from_freelist
+     0.21%  mm3      [kernel.kallsyms]     [k] do_user_addr_fault
+     0.17%  mm3      [kernel.kallsyms]     [k] rmqueue_bulk
+     0.12%  mm3      [kernel.kallsyms]     [k] lock_vma_under_rcu
+     0.12%  mm3      [kernel.kallsyms]     [k] get_vma_policy
+     0.11%  mm3      [kernel.kallsyms]     [k] lruvec_stat_mod_folio
+     0.11%  mm3      [kernel.kallsyms]     [k] folio_batch_move_lru
+     0.11%  mm3      [kernel.kallsyms]     [k] count_memcg_events
+     0.11%  mm3      [kernel.kallsyms]     [k] mod_memcg_lruvec_state
+     0.11%  mm3      [kernel.kallsyms]     [k] __pte_offset_map

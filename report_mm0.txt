@@ -1,0 +1,15 @@
+    99.44%  mm0      mm0                [.] multiply
+     0.12%  mm0      mm0                [.] init
+     0.03%  mm0      [kernel.kallsyms]  [k] kernel_init_pages
+     0.03%  mm0      [kernel.kallsyms]  [k] native_write_msr
+     0.02%  mm0      [kernel.kallsyms]  [k] rmqueue_bulk
+     0.02%  mm0      [kernel.kallsyms]  [k] __handle_mm_fault
+     0.02%  mm0      [kernel.kallsyms]  [k] native_irq_return_iret
+     0.02%  mm0      [kernel.kallsyms]  [k] __rcu_read_unlock
+     0.02%  mm0      [kernel.kallsyms]  [k] its_return_thunk
+     0.02%  mm0      [kernel.kallsyms]  [k] sync_regs
+     0.01%  mm0      [kernel.kallsyms]  [k] do_user_addr_fault
+     0.01%  mm0      [kernel.kallsyms]  [k] page_counter_try_charge
+     0.01%  mm0      [kernel.kallsyms]  [k] handle_mm_fault
+     0.01%  mm0      [kernel.kallsyms]  [k] resched_curr_lazy
+     0.01%  mm0      [kernel.kallsyms]  [k] ktime_get_update_offsets_now

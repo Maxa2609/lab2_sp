@@ -1,0 +1,20 @@
+
+ Performance counter stats for './mm3':
+
+                 6      context-switches                 #     29.0 cs/sec  cs_per_second     
+                 0      cpu-migrations                   #      0.0 migrations/sec  migrations_per_second
+              8257      page-faults                      #  39956.3 faults/sec  page_faults_per_second
+            206.65 msec task-clock                       #      1.0 CPUs  CPUs_utilized       
+         137889953      L1-dcache-load-misses            #     33.3 %  l1d_miss_rate            (37.13%)
+          53201966      LLC-loads                        #      7.6 %  llc_miss_rate            (24.89%)
+            547430      branch-misses                    #      0.4 %  branch_miss_rate         (25.14%)
+         141402353      branches                         #    684.3 M/sec  branch_frequency     (25.15%)
+         862272184      cpu-cycles                       #      4.2 GHz  cycles_frequency       (37.78%)
+        1114015172      instructions                     #      1.3 instructions  insn_per_cycle  (37.73%)
+
+       0.208336489 seconds time elapsed
+
+       0.199305000 seconds user
+       0.009013000 seconds sys
+
+
